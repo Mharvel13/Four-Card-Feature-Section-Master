@@ -3,9 +3,11 @@
     padding: 0;
 }
 
+/* GLOBAL STYLES */
+
 p {
     margin: 20px 0;
-    color: var(--Grayish-Blue);
+   color: var(--Grayish-Blue);
 }
 h1,
 h2 {
