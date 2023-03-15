@@ -28,12 +28,13 @@ Users should be able to:
     ![Desktop Solution](<./Solution-Screenshort(Desktop).png>)
 
 -   Mobile Screenshot
-    ![Desktop Solution](<./Solution-Screenshort(Mobile).jng>)
+    ![Mobile Solution](<./Solution-Screenshort(Mobile).png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+ Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/fourcardfeaturesectionmaster-solution-uD-Oht_upH)
+- Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Four-Card-Feature-Section-Master/)
+- Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Four-Card-Feature-Section-Master)
 
 ## My process
 
